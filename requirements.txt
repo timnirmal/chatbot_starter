@@ -1,0 +1,12 @@
+python-dotenv
+requests
+validators
+fastapi
+pydantic
+starlette
+aiohttp
+openai
+supabase
+uvicorn
+langchain_community
+langchain_openai
